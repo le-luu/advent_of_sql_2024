@@ -1,6 +1,6 @@
 # Advent of SQL
 
-![image](link of the image)
+![image](https://github.com/le-luu/advent_of_sql_2024/blob/main/adven_of_sql_homescreen.png)
 
 Advent of SQL site: https://adventofsql.com/
 
